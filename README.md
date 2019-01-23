@@ -3,7 +3,7 @@ A Computational Approach for Spider Web Inspired Fabrication
 
 *The information about the algorithm can be found in Bachelor's Thesis.pdf* </br>
 
-##Scripts:
+## Scripts:
  - Local cost algorithm - LocalCostAlgorithm.py
  - Global cost algorithm - GlobalCostAlgorithm.py
 
@@ -15,6 +15,6 @@ A Computational Approach for Spider Web Inspired Fabrication
  - Laser cut layots can be found in hardware folder
  - Processing code for controlling hardware - in hardware/MotorControl
 
-##Demo:
+## Demo:
 
 **Demo video: https://youtu.be/_MdVH5TOS2w**
