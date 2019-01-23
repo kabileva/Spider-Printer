@@ -16,7 +16,7 @@ A Computational Approach for Spider Web Inspired Fabrication
  - Processing code for controlling hardware - in hardware/MotorControl
  
 **Simulated Annealing implementation:**
- - simulatedAnnealing.py
+ - simulatedAnnealing.py </br>
  *ref.: Wai-Man Pang, Yingge Qu, Tien-Tsin Wong, Daniel Cohen-Or, and Pheng-Ann Heng. 2008.
 Structure-aware halftoning. ACM Transactions on Graphics (SIGGRAPH) 27, 3 (2008), 89:1-89:8.*
  
