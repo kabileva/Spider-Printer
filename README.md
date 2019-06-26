@@ -1,3 +1,7 @@
+## Demo:
+
+**Demo video: https://youtu.be/3viI6UhH82M**
+
 # Spider Printer
 Implementation of "A Computational Approach for Spider Web Inspired Fabrication of String Art"(Seungwoo Je, Yekaterina Abileva, Andrea Bianchi, Jean-Charles Bazin. 2019). In Computer Animation and Virtual Worlds 
 
@@ -20,6 +24,4 @@ Creating objects with threads is commonly referred as string art. It is typicall
  *ref.: Wai-Man Pang, Yingge Qu, Tien-Tsin Wong, Daniel Cohen-Or, and Pheng-Ann Heng. 2008.
 Structure-aware halftoning. ACM Transactions on Graphics (SIGGRAPH) 27, 3 (2008), 89:1-89:8.*
  
-## Demo:
 
-**Demo video: https://youtu.be/3viI6UhH82M**
