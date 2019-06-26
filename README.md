@@ -1,7 +1,7 @@
 # Spider Printer
-A Computational Approach for Spider Web Inspired Fabrication
+Implementation of "A Computational Approach for Spider Web Inspired Fabrication of String Art" published in Computer Animation and Virtual Worlds 
 
-*The information about the algorithm can be found in Bachelor's Thesis.pdf* </br>
+Creating objects with threads is commonly referred as string art. It is typically a manual, tedious work reserved for skilled artists. In this paper, we investigate how to automatically fabricate string art pieces from one single continuous thread in such a way that it looks like an input image. The proposed system consists of a thread connection optimization algorithm and a custom-made fabrication machine. It allows casual users to create their own personalized string art pieces in a fully automatic manner. Quantitative and qualitative evaluations demonstrated our system can create visually appealing results.
 
 ## Scripts:
  - Local cost algorithm - LocalCostAlgorithm.py
@@ -22,4 +22,4 @@ Structure-aware halftoning. ACM Transactions on Graphics (SIGGRAPH) 27, 3 (2008)
  
 ## Demo:
 
-**Demo video: https://youtu.be/_MdVH5TOS2w**
+**Demo video: https://youtu.be/3viI6UhH82M**
