@@ -3,7 +3,7 @@
 **Demo video: https://youtu.be/3viI6UhH82M**
 
 # Spider Printer
-Implementation of "A Computational Approach for Spider Web Inspired Fabrication of String Art"(Seungwoo Je, Yekaterina Abileva, Andrea Bianchi, Jean-Charles Bazin. 2019). In Computer Animation and Virtual Worlds 
+Implementation of "A Computational Approach for Spider Web Inspired Fabrication of String Art"(Seungwoo Je, Yekaterina Abileva, Andrea Bianchi, Jean-Charles Bazin. 2019). In Computer Animation and Virtual Worlds. https://onlinelibrary.wiley.com/doi/full/10.1002/cav.1904
 
 Creating objects with threads is commonly referred as string art. It is typically a manual, tedious work reserved for skilled artists. In this paper, we investigate how to automatically fabricate string art pieces from one single continuous thread in such a way that it looks like an input image. The proposed system consists of a thread connection optimization algorithm and a custom-made fabrication machine. It allows casual users to create their own personalized string art pieces in a fully automatic manner. Quantitative and qualitative evaluations demonstrated our system can create visually appealing results.
 
